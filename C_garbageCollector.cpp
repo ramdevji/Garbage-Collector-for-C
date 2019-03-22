@@ -1,10 +1,9 @@
-
 #include "C_garbageCollector.h"
 #include <stdlib.h>
 #include <assert.h>
 
-#include <stdio.h> // remove this line
-#include <conio.h> // remove this line
+#include <stdio.h> 
+#include <conio.h> 
 
 
 // this structure holds root information
